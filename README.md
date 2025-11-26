@@ -154,7 +154,7 @@ os.environ["PATH"] += os.pathsep + r"你的FFmpeg路径\bin"
 
 ## 📄 许可证
 
-MIT License
+CC BY-NC-SA 4.0 license
 
 ## 👨‍💻 作者
 
