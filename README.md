@@ -49,7 +49,7 @@
 
 ### 前置要求
 
-1. **Python 3.10.10**
+1. **Python 3.12.10**
 2. **Node.js 16+**
 3. **FFmpeg** (已配置路径: `D:\ffmpeg-7.1.1\bin`)
 4. **Whisper 模型** (已配置本地路径: `backend\faster-whisper-small`)
